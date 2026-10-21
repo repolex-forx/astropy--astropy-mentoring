@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "astropy-mentoring",
+  "versions": [
+    {
+      "commit": "beb1965abd4b9d01423fe382e420e428c38939d0",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:03:40.554004+00:00"
+    }
+  ]
+}
